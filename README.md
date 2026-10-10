@@ -234,7 +234,7 @@ Further work could incorporate additional transaction characteristics, temporal 
 
 ## 11. Project Contributors
 
-This project was collaboratively developed as part of **STAT 280 – Knowledge Discovery in Data** at the University of the Philippines Diliman.
+This project was collaboratively developed as part of **STAT 280 – Practical Machine Learning** at the University of the Philippines Diliman.
 
 ### Team Members and Contributions
 
